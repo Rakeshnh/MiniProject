@@ -1,0 +1,90 @@
+h2{
+    text-align: center;
+    border: 2px solid black;
+    height: 20px;
+    padding: 20px;
+    position: fixed;
+    margin: -150px 0px 900px 0px;
+    width: 1209px;
+    border-radius: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 30px;
+    padding: 20px 10px 30px 10px;
+    background: url(https://wallpaperaccess.com/full/5668713.jpg);
+    background-repeat: no-repeat;
+    background-size: 1250px;
+
+}
+div{
+    position: fixed;
+    margin: 20px;
+    border: 2px solid black;
+    height: 500px;
+    text-align: 90px;
+    margin: -70px 10px 90px 10px;
+    text-align: left;
+    background-color: bisque;
+}
+.search{
+    position: fixed;
+    border:2px solid lightskyblue;
+    text-align: center;
+    justify-content: center;
+    margin: -60px 900px 100px 555px;
+    padding: 10px 70px 10px 70px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+.Homepage{
+    text-align: center;
+    border: 2px solid black;
+    margin: 150px 700px 170px 160px;
+    height: 400px;
+    width: 1100px;
+    /* background-image: url(c.jpg); */
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    display: flex;
+    background-color: gainsboro;
+
+}
+span{
+    text-align: center;
+    color:black;
+    height: 20px;
+    margin: 1600px 0px 900px 0px;
+    font-size: 50px;
+    padding: 500px 0px 0px 0px;
+}
+h3{
+    font-size: 28px;
+    /* padding: 10px 10px 10px px; */
+    margin: 20px 20px 30px 20px;
+    /* border: 2px solid black; */
+
+}
+.unorder{
+    font-size: 16px;
+    line-height: 40px;
+    word-spacing: 2px;
+}
+img{
+    height: 200px;
+    width: 190;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 10px 20px 20px;
+    margin: -2050px 60px -400px -56px;
+
+}
+button{
+  margin: 400px 20px 20px -60px;
+  font-size: 18px;
+  border-radius: 10px;
+  
+}
+button:hover{
+  background-color: blue;
+  color: azure;
+}
